@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-ecommerce-app",
+  "version": "1.0.0",
+  "description": "A ecommerce application using Nodejs, Express, NosonDB, React Express Views....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tush-tr/nodejs-ecommerce-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tush-tr/nodejs-ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/tush-tr/nodejs-ecommerce-app#readme",
+  "dependencies": {
+    "@tush-tr/nosondb": "^1.2.1",
+    "body-parser": "^1.20.0",
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.3",
+    "express-react-views": "^0.11.0",
+    "express-validator": "^6.14.0",
+    "multer": "^1.4.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
