@@ -1,0 +1,4 @@
+const getHomePage = async (req, res, next) => {
+  res.status(200).render("home", params);
+};
+module.exports = {getHomePage}
