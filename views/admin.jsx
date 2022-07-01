@@ -1,5 +1,5 @@
 const React = require("react");
-const Default = require("./Default/web");
+const Default = require("./Default/admin");
 const Home = () => {
   return (
     <Default>

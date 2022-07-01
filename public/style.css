@@ -1,0 +1,13 @@
+.homepage{
+    border: 2px solid red;
+}
+.header-wrapper{
+    text-align: center;
+    background: linear-gradient(to left,#07bbd4,#ff6c6c);
+}
+.image-section-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 340px;
+}
